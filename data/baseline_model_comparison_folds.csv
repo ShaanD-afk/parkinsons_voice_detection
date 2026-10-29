@@ -1,0 +1,16 @@
+model,fold,balanced_accuracy,roc_auc
+Dummy (most frequent),1,0.5,0.5
+Dummy (most frequent),2,0.5,0.5
+Dummy (most frequent),3,0.5,0.5
+Dummy (most frequent),4,0.5,0.5
+Dummy (most frequent),5,0.5,0.5
+Logistic regression,1,0.8333333333333333,0.888888888888889
+Logistic regression,2,0.8333333333333333,0.7777777777777779
+Logistic regression,3,1.0,1.0
+Logistic regression,4,1.0,1.0
+Logistic regression,5,0.8333333333333333,1.0
+RBF SVM,1,0.8333333333333333,0.888888888888889
+RBF SVM,2,0.8333333333333333,0.888888888888889
+RBF SVM,3,0.75,1.0
+RBF SVM,4,1.0,1.0
+RBF SVM,5,0.8333333333333333,1.0

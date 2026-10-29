@@ -1,0 +1,12 @@
+PRIMARY COHORT RECONCILIATION SUMMARY
+====================================
+Participant rows: 65
+Included elderly healthy controls: 17
+Included Parkinson's participants: 19
+Total included participants before sample-rate filtering: 36
+Included recordings at 16000 Hz: 455
+
+Manual mapping: ANTONIETTA P -> Antonella P
+Excluded unresolved identities: LISCO G, PORCELLI A, SUMMO L, elderly-control VITO L, and PD 17-28/Mario B.
+Young healthy controls excluded from the primary HC-vs-PD analysis.
+Inspect metadata_match_review.csv before reporting demographics.

@@ -1,0 +1,14 @@
+feature,n_compared,n_missing_orig,n_missing_ref,n_missing_mismatch,max_abs_diff,mean_abs_diff,within_tolerance,note
+median_f0_hz,29,0,0,0,0.0,0.0,True,Exact match
+f0_std_hz,29,0,0,0,0.0,0.0,True,Exact match
+f0_iqr_hz,29,0,0,0,0.0,0.0,True,Exact match
+voiced_frame_fraction,29,0,0,0,0.0,0.0,True,Exact match
+jitter_local,29,0,0,0,0.0,0.0,True,Exact match
+shimmer_local,29,0,0,0,0.0,0.0,True,Exact match
+hnr_mean_db,29,0,0,0,0.0,0.0,True,Exact match
+spectral_centroid_hz,29,0,0,0,0.0,0.0,True,Exact match
+spectral_rolloff_85_hz,29,0,0,0,0.0,0.0,True,Exact match
+spectral_flatness,29,0,0,0,0.0,0.0,True,Exact match
+duration_seconds,29,0,0,0,0.0,0.0,True,Exact match
+rms_amplitude,29,0,0,0,0.0,0.0,True,Exact match
+peak_amplitude,29,0,0,0,0.0,0.0,True,Exact match
