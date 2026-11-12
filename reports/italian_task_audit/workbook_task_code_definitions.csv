@@ -1,0 +1,49 @@
+task_code,description,group,source_workbook
+B1,first reading of the phonemically balanced text 'Il ramarro della zia',YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+B2,second reading of the phonemically balanced text 'Il ramarro della zia',YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+D1,execution of the syllable ‘pa’ (5 sec),YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+D2,execution of the syllable ‘ta’ (5 sec),YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+FB1,reading of some phonemically balanced phrases,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+FB2,reading of some phonemically balanced words,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VA1,2 phonation of the vocal ‘a’,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VA2,,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VE1,2 phonation of the vocal ‘e’,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VE2,,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VI1,2 phonation of the vocal ‘i’,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VI2,,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VO1,2 phonation of the vocal ‘o’,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VO2,,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VU1,2 phonation of the vocal ‘u’,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+VU2,,YOUNG_HC,/Users/Shaan/Desktop/datasets/italian/15 Young Healthy Control/FILE CODES.xlsx
+B1,first reading of the phonemically balanced text 'Il ramarro della zia',ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+B2,second reading of the phonemically balanced text 'Il ramarro della zia',ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+D1,execution of the syllable ‘pa’ (5 sec),ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+D2,execution of the syllable ‘ta’ (5 sec),ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+FB1,reading of some phonemically balanced phrases,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+FB2,reading of some phonemically balanced words,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VA1,2 phonation of the vocal ‘a’,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VA2,,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VE1,2 phonation of the vocal ‘e’,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VE2,,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VI1,2 phonation of the vocal ‘i’,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VI2,,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VO1,2 phonation of the vocal ‘o’,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VO2,,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VU1,2 phonation of the vocal ‘u’,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+VU2,,ELDERLY_HC,/Users/Shaan/Desktop/datasets/italian/22 Elderly Healthy Control/FILE CODES.xlsx
+B1,first reading of the phonemically balanced text 'Il ramarro della zia',PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+B2,second reading of the phonemically balanced text 'Il ramarro della zia',PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+D1,execution of the syllable ‘pa’ (5 sec),PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+D2,execution of the syllable ‘ta’ (5 sec),PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+FB1,reading of some phonemically balanced phrases,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+FB2,reading of some phonemically balanced words,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VA1,2 phonation of the vocal ‘a’,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VA2,,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VE1,2 phonation of the vocal ‘e’,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VE2,,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VI1,2 phonation of the vocal ‘i’,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VI2,,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VO1,2 phonation of the vocal ‘o’,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VO2,,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VU1,2 phonation of the vocal ‘u’,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx
+VU2,,PD,/Users/Shaan/Desktop/datasets/italian/28 People with Parkinson's disease/FILE CODES.xlsx

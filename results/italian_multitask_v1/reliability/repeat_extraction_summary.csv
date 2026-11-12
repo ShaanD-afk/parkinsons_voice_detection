@@ -1,0 +1,10 @@
+feature,n_compared,n_missing_both_or_either,max_abs_difference,mean_abs_difference,exact_match_all_finite
+median_f0_hz,145,0,0.0,0.0,True
+f0_iqr_hz,145,0,0.0,0.0,True
+f0_std_hz,145,0,0.0,0.0,True
+jitter_local,145,0,0.0,0.0,True
+shimmer_local,145,0,0.0,0.0,True
+hnr_mean_db,145,0,0.0,0.0,True
+f1_hz,145,0,0.0,0.0,True
+f2_hz,145,0,0.0,0.0,True
+f3_hz,145,0,0.0,0.0,True

@@ -1,0 +1,15 @@
+check,status,observed,expected,detail
+Full manifest recording total,PASS,831,831,
+Full manifest unique participants,PASS,65,65,
+Participant identity keys unique by group and folder,PASS,0,0,
+Participant folder IDs are not reused across groups,PASS,0,0,Repeated terminal names are separately reported and are not treated as duplicate IDs.
+Full manifest group recording totals,PASS,"{'ELDERLY_HC': 349, 'PD': 437, 'YOUNG_HC': 45}","{'PD': 437, 'ELDERLY_HC': 349, 'YOUNG_HC': 45}",
+Full manifest group participant totals,PASS,"{'ELDERLY_HC': 22, 'PD': 28, 'YOUNG_HC': 15}","{'PD': 28, 'ELDERLY_HC': 22, 'YOUNG_HC': 15}",
+Reconciled cohort participant counts,PASS,"{'ELDERLY_HC': 17, 'PD': 19}","{'ELDERLY_HC': 17, 'PD': 19}",
+Reconciled 16 kHz recording total,PASS,455,455,
+Manifest relative paths unique,PASS,0,0,
+Manifest paths match audio files on disk,PASS,"{'missing_on_disk': 0, 'unlisted_audio': 0}","{'missing_on_disk': 0, 'unlisted_audio': 0}",
+Task-code prefix consistency,PASS,0,0,
+Primary cohort manifest row inventory matches full manifest,PASS,0,0,
+Primary manifest decisions match participant decision table,PASS,0,0,
+Three FILE CODES workbooks agree,PASS,"[['B1', 'B2', 'D1', 'D2', 'FB1', 'FB2', 'VA1', 'VA2', 'VE1', 'VE2', 'VI1', 'VI2', 'VO1', 'VO2', 'VU1', 'VU2'], ['B1', 'B2', 'D1', 'D2', 'FB1', 'FB2', 'VA1', 'VA2', 'VE1', 'VE2', 'VI1', 'VI2', 'VO1', 'VO2', 'VU1', 'VU2'], ['B1', 'B2', 'D1', 'D2', 'FB1', 'FB2', 'VA1', 'VA2', 'VE1', 'VE2', 'VI1', 'VI2', 'VO1', 'VO2', 'VU1', 'VU2']]",same task-code set,

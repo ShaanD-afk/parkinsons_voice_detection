@@ -1,0 +1,7 @@
+dataset,task,group,recordings,participants,sample_rate_hz,recordings_readable
+Figshare,sustained_a,HC,41,41,8000,41
+Figshare,sustained_a,PD,40,40,8000,40
+MDVR-KCL,read_text,HC,21,21,44100,21
+MDVR-KCL,read_text,PD,16,16,44100,16
+MDVR-KCL,spontaneous_dialogue,HC,21,21,44100,21
+MDVR-KCL,spontaneous_dialogue,PD,15,15,44100,15

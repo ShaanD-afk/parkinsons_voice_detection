@@ -1,0 +1,8 @@
+population,group,participants,recordings,mean_age_years,female_n,male_n
+full_dataset,ELDERLY_HC,22,349.0,,,
+full_dataset,PD,28,437.0,,,
+full_dataset,YOUNG_HC,15,45.0,,,
+reconciled_HC_PD,ELDERLY_HC,17,272.0,,,
+reconciled_HC_PD,PD,19,295.0,,,
+reconciled_participant_roster,ELDERLY_HC,17,,67.47058823529412,11.0,6.0
+reconciled_participant_roster,PD,19,,65.84210526315789,9.0,10.0

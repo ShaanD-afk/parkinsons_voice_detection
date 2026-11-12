@@ -1,0 +1,66 @@
+cohort_group,participant_folder,participant_name_normalized,metadata_match_status,include_primary_cohort,exclusion_reason,manual_mapping_applied,metadata_name,metadata_surname,metadata_age,workbook_crosscheck_key,workbook_match_count,workbook_crosscheck_status,matched_workbook_identity
+PD,1-5/Domenico C,DOMENICO C,exact_name_match,True,,False,Domenico,C,50.0,DOMENICO C,1,matched,DOMENICO C
+PD,1-5/Felicetta C,FELICETTA C,exact_name_match,True,,False,Felicetta,C,63.0,FELICETTA C,1,matched,FELICETTA C
+PD,1-5/Leonarda L,LEONARDA L,exact_name_match,True,,False,Leonarda,L,61.0,LEONARDA L,1,matched,LEONARDA L
+PD,1-5/Lucia R,LUCIA R,exact_name_match,True,,False,Lucia,R,40.0,LUCIA R,1,matched,LUCIA R
+PD,1-5/Roberto R,ROBERTO R,ambiguous_duplicate_name,False,,False,,,,ROBERTO R,2,ambiguous_workbook_match,ROBERTO R | ROBERTO R
+PD,11-16/Anna B,ANNA B,exact_name_match,True,,False,Anna,B,71.0,ANNA B,1,matched,ANNA B
+PD,11-16/Michele C,MICHELE C,exact_name_match,True,,False,Michele,C,71.0,MICHELE C,1,matched,MICHELE C
+PD,11-16/Nicola S,NICOLA S,ambiguous_duplicate_name,False,,False,,,,NICOLA S,2,ambiguous_workbook_match,NICOLA S | NICOLA S
+PD,11-16/Roberto L,ROBERTO L,exact_name_match,True,,False,Roberto,L,75.0,ROBERTO L,1,matched,ROBERTO L
+PD,11-16/Roberto R,ROBERTO R,ambiguous_duplicate_name,False,,False,,,,ROBERTO R,2,ambiguous_workbook_match,ROBERTO R | ROBERTO R
+PD,11-16/Vito S,VITO S,ambiguous_duplicate_name,False,,False,,,,VITO S,3,ambiguous_workbook_match,VITO S | VITO S | VITO S
+PD,17-28/Antonia G,ANTONIA G,exact_name_match,True,,False,Antonia,G,65.0,ANTONIA G,1,matched,ANTONIA G
+PD,17-28/Daria L,DARIA L,exact_name_match,True,,False,Daria,L,80.0,DARIA L,1,matched,DARIA L
+PD,17-28/Giovanni M,GIOVANNI M,exact_name_match,True,,False,Giovanni,M,73.0,GIOVANNI M,1,matched,GIOVANNI M
+PD,17-28/Giovanni N,GIOVANNI N,exact_name_match,True,,False,Giovanni,N,70.0,GIOVANNI N,1,matched,GIOVANNI N
+PD,17-28/Giulia L,GIULIA L,exact_name_match,True,,False,Giulia,L,67.0,GIULIA L,1,matched,GIULIA L
+PD,17-28/Giulia P,GIULIA P,exact_name_match,True,,False,Giulia,P,54.0,GIULIA P,1,matched,GIULIA P
+PD,17-28/Giustina M,GIUSTINA M,exact_name_match,True,,False,Giustina,M,78.0,GIUSTINA M,1,matched,GIUSTINA M
+PD,17-28/Mario B,MARIO B,excluded_unresolved_identity,False,Unresolved metadata identity,False,,,,MARIO B,0,not_found_in_roster,
+PD,17-28/Nicola M,NICOLA M,exact_name_match,True,,False,Nicola,M,65.0,NICOLA M,1,matched,NICOLA M
+PD,17-28/Nicolò C,NICOLÒ C,unmatched,False,,False,,,,NICOLO C,1,matched,NICOLO C
+PD,17-28/Vito L,VITO L,exact_name_match,True,,False,Vito,L,70.0,VITO L,1,matched,VITO L
+PD,17-28/Vito S,VITO S,ambiguous_duplicate_name,False,,False,,,,VITO S,3,ambiguous_workbook_match,VITO S | VITO S | VITO S
+PD,6-10/Luigi B,LUIGI B,exact_name_match,True,,False,Luigi,B,65.0,LUIGI B,1,matched,LUIGI B
+PD,6-10/Nicola S,NICOLA S,ambiguous_duplicate_name,False,,False,,,,NICOLA S,2,ambiguous_workbook_match,NICOLA S | NICOLA S
+PD,6-10/Saverio S,SAVERIO S,exact_name_match,True,,False,Saverio,S,56.0,SAVERIO S,1,matched,SAVERIO S
+PD,6-10/Ugo B,UGO B,exact_name_match,True,,False,Ugo,B,77.0,UGO B,1,matched,UGO B
+PD,6-10/Vito S,VITO S,ambiguous_duplicate_name,False,,False,,,,VITO S,3,ambiguous_workbook_match,VITO S | VITO S | VITO S
+ELDERLY_HC,AGNESE P,AGNESE P,exact_name_match,True,,False,Agnese,P*,62.0,AGNESE P,1,matched,AGNESE P
+ELDERLY_HC,ANGELA C,ANGELA C,exact_name_match,True,,False,Angela,C,68.0,ANGELA C,1,matched,ANGELA C
+ELDERLY_HC,ANGELA G,ANGELA G,exact_name_match,True,,False,Angela,G,63.0,ANGELA G,1,matched,ANGELA G
+ELDERLY_HC,ANTONIETTA P,ANTONIETTA P,manual_match,True,,True,Antonella,P,61.0,ANTONIETTA P,1,matched,ANTONELLA P
+ELDERLY_HC,ANTONIO C,ANTONIO C,exact_name_match,True,,False,Antonio,C,77.0,ANTONIO C,1,matched,ANTONIO C
+ELDERLY_HC,BRIGIDA C,BRIGIDA C,exact_name_match,True,,False,Brigida,C,69.0,BRIGIDA C,1,matched,BRIGIDA C
+ELDERLY_HC,GILDA C,GILDA C,exact_name_match,True,,False,Gilda,C*,65.0,GILDA C,1,matched,GILDA C
+ELDERLY_HC,GIOVANNA G,GIOVANNA G,exact_name_match,True,,False,Giovanna,G*,70.0,GIOVANNA G,1,matched,GIOVANNA G
+ELDERLY_HC,GIOVANNI B,GIOVANNI B,exact_name_match,True,,False,Giovanni,B,69.0,GIOVANNI B,1,matched,GIOVANNI B
+ELDERLY_HC,GRAZIA G,GRAZIA G,exact_name_match,True,,False,Grazia,G,72.0,GRAZIA G,1,matched,GRAZIA G
+ELDERLY_HC,LEONARDA F,LEONARDA F,exact_name_match,True,,False,Leonarda,F,60.0,LEONARDA F,1,matched,LEONARDA F
+ELDERLY_HC,LISCO G,LISCO G,excluded_unresolved_identity,False,Unresolved metadata identity,False,,,,LISCO G,0,not_found_in_roster,
+ELDERLY_HC,LUIGI P,LUIGI P,exact_name_match,True,,False,Luigi,P,76.0,LUIGI P,1,matched,LUIGI P
+ELDERLY_HC,MARIACRISTINA P,MARIACRISTINA P,exact_name_match,True,,False,Mariacristina,P,61.0,MARIACRISTINA P,1,matched,MARIACRISTINA P
+ELDERLY_HC,MICHELE G,MICHELE G,exact_name_match,True,,False,Michele,G,68.0,MICHELE G,1,matched,MICHELE G
+ELDERLY_HC,NICOLA P,NICOLA P,exact_name_match,True,,False,Nicola,P,75.0,NICOLA P,1,matched,NICOLA P
+ELDERLY_HC,PORCELLI A,PORCELLI A,excluded_unresolved_identity,False,Unresolved metadata identity,False,,,,PORCELLI A,0,not_found_in_roster,
+ELDERLY_HC,SUMMO L,SUMMO L,excluded_unresolved_identity,False,Unresolved metadata identity,False,,,,SUMMO L,0,not_found_in_roster,
+ELDERLY_HC,TERESA M,TERESA M,exact_name_match,True,,False,Teresa,M,63.0,TERESA M,1,matched,TERESA M
+ELDERLY_HC,VITANTONIO D,VITANTONIO D,unmatched,False,,False,,,,VITANTONIO D,1,matched,VITANTONIO D
+ELDERLY_HC,VITO A,VITO A,exact_name_match,True,,False,Vito,A,68.0,VITO A,1,matched,VITO A
+ELDERLY_HC,VITO L,VITO L,excluded_unresolved_identity,False,Unresolved metadata identity,False,,,,VITO L,0,not_found_in_roster,
+YOUNG_HC,Alberto R,ALBERTO R,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Alberto,R,20.0,ALBERTO R,1,matched,ALBERTO R
+YOUNG_HC,Alessandro M,ALESSANDRO M,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Alessandro,M,20.0,ALESSANDRO M,1,matched,ALESSANDRO M
+YOUNG_HC,Alessandro P,ALESSANDRO P,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Alessandro,P,24.0,ALESSANDRO P,1,matched,ALESSANDRO P
+YOUNG_HC,Arianna P,ARIANNA P,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Arianna,P,19.0,ARIANNA P,1,matched,ARIANNA P
+YOUNG_HC,Biagio P,BIAGIO P,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Biagio,P,19.0,BIAGIO P,1,matched,BIAGIO P
+YOUNG_HC,Daniele R,DANIELE R,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Daniele,R,21.0,DANIELE R,1,matched,DANIELE R
+YOUNG_HC,Davide M,DAVIDE M,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Davide,M,19.0,DAVIDE M,1,matched,DAVIDE M
+YOUNG_HC,Davide S,DAVIDE S,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Davide,S,20.0,DAVIDE S,1,matched,DAVIDE S
+YOUNG_HC,Domenico T,DOMENICO T,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Domenico,T,19.0,DOMENICO T,1,matched,DOMENICO T
+YOUNG_HC,Gennaro T,GENNARO T,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Gennaro,T,19.0,GENNARO T,1,matched,GENNARO T
+YOUNG_HC,Giuseppe Andrea M,GIUSEPPE ANDREA M,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Giuseppe Andrea,M,21.0,GIUSEPPE ANDREA M,1,matched,GIUSEPPE ANDREA M
+YOUNG_HC,Giuseppe M,GIUSEPPE M,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Giuseppe,M,29.0,GIUSEPPE M,1,matched,GIUSEPPE M
+YOUNG_HC,Luca S,LUCA S,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Luca,S,20.0,LUCA S,1,matched,LUCA S
+YOUNG_HC,Nicolas M,NICOLAS M,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Nicolas,M,22.0,NICOLAS M,1,matched,NICOLAS M
+YOUNG_HC,Sara T,SARA T,exact_name_match,False,Young healthy controls excluded from primary analysis,False,Sara,T,20.0,SARA T,1,matched,SARA T

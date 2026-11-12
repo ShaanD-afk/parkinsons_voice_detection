@@ -1,0 +1,19 @@
+task_code,observed_in_manifest,documented_in_codebook,description_as_written,status
+B1,True,True,first reading of the phonemically balanced text 'Il ramarro della zia',observed_and_documented
+B2,True,True,second reading of the phonemically balanced text 'Il ramarro della zia',observed_and_documented
+D1,True,True,execution of the syllable ‘pa’ (5 sec),observed_and_documented
+D2,True,True,execution of the syllable ‘ta’ (5 sec),observed_and_documented
+FB1,True,True,reading of some phonemically balanced phrases,observed_and_documented
+FB2,False,True,reading of some phonemically balanced words,documented_not_observed
+PR1,True,False,,observed_undocumented
+PR11,True,False,,observed_undocumented
+VA1,True,True,2 phonation of the vocal ‘a’,observed_and_documented
+VA2,True,True,,observed_and_documented
+VE1,True,True,2 phonation of the vocal ‘e’,observed_and_documented
+VE2,True,True,,observed_and_documented
+VI1,True,True,2 phonation of the vocal ‘i’,observed_and_documented
+VI2,True,True,,observed_and_documented
+VO1,True,True,2 phonation of the vocal ‘o’,observed_and_documented
+VO2,True,True,,observed_and_documented
+VU1,True,True,2 phonation of the vocal ‘u’,observed_and_documented
+VU2,True,True,,observed_and_documented

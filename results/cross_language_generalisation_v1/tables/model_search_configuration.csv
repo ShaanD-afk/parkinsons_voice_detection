@@ -1,0 +1,37 @@
+dataset,task,features,model,grid,feature_set
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",core4
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",core4
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",core4
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",core4
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",core5
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",core5
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",core5
+ItalianPVS_VA1,VA1,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",core5
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",core4
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",core4
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",core4
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",core4
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",core5
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",core5
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",core5
+Figshare_sustained_a,sustained_a,"['median_f0_hz', 'f0_iqr_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",core5
+MDVR-KCL_read_text,read_text,"['active_speech_fraction', 'pause_count_candidate', 'pause_fraction_candidate', 'median_f0_active_hz', 'f0_iqr_active_hz', 'voiced_fraction_active', 'hnr_median_active_db', 'relative_intensity_iqr_db', 'spectral_centroid_active_hz', 'spectral_rolloff_85_active_hz']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+MDVR-KCL_read_text,read_text,"['active_speech_fraction', 'pause_count_candidate', 'pause_fraction_candidate', 'median_f0_active_hz', 'f0_iqr_active_hz', 'voiced_fraction_active', 'hnr_median_active_db', 'relative_intensity_iqr_db', 'spectral_centroid_active_hz', 'spectral_rolloff_85_active_hz']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+MDVR-KCL_read_text,read_text,"['active_speech_fraction', 'pause_count_candidate', 'pause_fraction_candidate', 'median_f0_active_hz', 'f0_iqr_active_hz', 'voiced_fraction_active', 'hnr_median_active_db', 'relative_intensity_iqr_db', 'spectral_centroid_active_hz', 'spectral_rolloff_85_active_hz']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",task_specific
+MDVR-KCL_read_text,read_text,"['active_speech_fraction', 'pause_count_candidate', 'pause_fraction_candidate', 'median_f0_active_hz', 'f0_iqr_active_hz', 'voiced_fraction_active', 'hnr_median_active_db', 'relative_intensity_iqr_db', 'spectral_centroid_active_hz', 'spectral_rolloff_85_active_hz']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",task_specific
+UCI174_feature_table,sustained_vowel_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI174_feature_table,sustained_vowel_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI174_feature_table,sustained_vowel_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",task_specific
+UCI174_feature_table,sustained_vowel_a,"['median_f0_hz', 'jitter_local', 'shimmer_local', 'hnr_mean_db']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",task_specific
+UCI301_a_feature_table,sustained_a,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI301_a_feature_table,sustained_a,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI301_a_feature_table,sustained_a,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",task_specific
+UCI301_a_feature_table,sustained_a,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",task_specific
+UCI301_o_feature_table,sustained_o,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI301_o_feature_table,sustained_o,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI301_o_feature_table,sustained_o,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",task_specific
+UCI301_o_feature_table,sustained_o,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",task_specific
+UCI301_u_feature_table,sustained_u,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",Logistic_scaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI301_u_feature_table,sustained_u,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",Logistic_unscaled,"{'model__C': [0.01, 0.1, 1, 10]}",task_specific
+UCI301_u_feature_table,sustained_u,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",SVM_RBF_scaled,"{'model__C': [0.1, 1, 10], 'model__gamma': ['scale', 'auto']}",task_specific
+UCI301_u_feature_table,sustained_u,"['jitter_local', 'shimmer_local', 'htn', 'median_pitch_hz', 'unvoiced_fraction']",RandomForest,"{'model__max_depth': [2, 4, None], 'model__min_samples_leaf': [1, 2]}",task_specific

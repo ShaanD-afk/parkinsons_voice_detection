@@ -1,0 +1,5 @@
+metric,estimate,ci_method,ci_level,ci_lower,ci_upper,n_participants,n_hc,n_pd,bootstrap_replicates,seed
+balanced_accuracy,0.8995098039215685,"participant-stratified percentile bootstrap, conditional on fixed OOF predictions",0.95,0.7745098039215685,1.0,29,17,12,20000,20261031
+roc_auc,0.9166666666666666,"participant-stratified percentile bootstrap, conditional on fixed OOF predictions",0.95,0.7892156862745098,1.0,29,17,12,20000,20261031
+sensitivity,0.9166666666666666,"participant-stratified percentile bootstrap, conditional on fixed OOF predictions",0.95,0.75,1.0,29,17,12,20000,20261031
+specificity,0.8823529411764706,"participant-stratified percentile bootstrap, conditional on fixed OOF predictions",0.95,0.7058823529411765,1.0,29,17,12,20000,20261031

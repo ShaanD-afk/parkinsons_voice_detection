@@ -1,0 +1,18 @@
+{
+  "raw_audio_feature_rows": 110,
+  "raw_audio_extraction_failures": 0,
+  "italian_primary": {
+    "HC": 17,
+    "PD": 12
+  },
+  "figshare": {
+    "HC": 41,
+    "PD": 40
+  },
+  "within_models": 36,
+  "external_models": 24,
+  "invalid_cross_directions": 4,
+  "dataset_identity_models": 3,
+  "hashes_unchanged": true,
+  "elapsed_seconds": 1282.9
+}

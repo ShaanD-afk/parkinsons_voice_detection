@@ -1,0 +1,22 @@
+check,status,observed,expected
+Historical Italian task-audit checks remain passing,PASS,{'PASS': 14},all PASS
+Primary native first-vowel input has 145 participant-task rows,PASS,145,145
+Primary first-vowel group counts are 85 HC / 60 PD,PASS,"{'ELDERLY_HC': 85, 'PD': 60}","{'ELDERLY_HC': 85, 'PD': 60}"
+Primary feature table has no duplicate participant-task rows,PASS,0,0
+Sensitivity has 20 contrasts in each rate cohort,PASS,"{'combined_resampled_sensitivity': 20, 'native16': 20}","{'native16': 20, 'combined_resampled_sensitivity': 20}"
+VI1 shimmer mean difference verified against original CSV,PASS,"(np.float64(0.04438941439941426), np.float64(0.04438941439941426))",equal within 1e-12
+VI1 shimmer unadjusted Mann-Whitney p verified against original CSV,PASS,"(np.float64(0.0005996831225510919), np.float64(0.0005996831225510919))",equal within 1e-12
+VI1 shimmer direction remains positive after every single participant deletion,PASS,0.033349207636087105,> 0
+Independent percentile and BCa participant intervals exclude zero,PASS,"(np.float64(0.01817559261794653), np.float64(0.022463047265201132))",both lower bounds > 0
+D1/D2 characterization contains all 72 reconciled recordings,PASS,72,72
+D1/D2 plots generated for every characterized recording,PASS,72,72
+Second/first vowel signal table contains 355 rows,PASS,355,355
+Connected speech has 104 default-threshold participant-task rows,PASS,104,104
+Connected speech threshold table has three thresholds for every recording,PASS,"(312, [np.int64(-40), np.int64(-35), np.int64(-30)])",312 rows; -40/-35/-30 dB
+All connected speech primary candidates retain original sample rate,PASS,0,0 missing rates
+Review queue includes all D1/D2 recordings,PASS,72,72
+Review queue has no automated exclusions,PASS,0,0
+Review annotations remain separate and contain no auto-filled judgments,PASS,0,0
+All 19 historical QC flags remain in source QC table,PASS,19,19
+First-vowel formant broad plausibility ranges have no automatic failures,PASS,"{'f1_range_valid': 0, 'f2_range_valid': 0, 'f3_range_valid': 0}",0 false flags
+Existing VA1/reference integrity record remains unchanged,PASS,[],true; []

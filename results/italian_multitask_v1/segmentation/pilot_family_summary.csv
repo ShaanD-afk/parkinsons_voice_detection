@@ -1,0 +1,16 @@
+task_family,task_code,pilot_recordings,mean_duration_s,median_active_speech_s,median_vowel_pitch_run_s,median_rms_vad_bouts,segmentation_flags
+reading,B1,4,83.070859375,43.145,0.79,69.5,0
+reading,B2,4,65.88354173752835,41.345,0.8600000000000001,66.5,0
+reading,FB1,3,28.614095804988665,21.13,1.01,35.0,0
+sustained_vowel_candidate,VA1,3,11.454187499999998,9.290000000000001,7.8,1.0,0
+sustained_vowel_candidate,VA2,3,8.928262707860922,5.67,3.62,1.0,0
+sustained_vowel_candidate,VE1,3,14.425708333333333,6.57,6.43,2.0,0
+sustained_vowel_candidate,VE2,3,8.81,5.86,5.84,1.0,0
+sustained_vowel_candidate,VI1,3,11.451846041194257,10.18,8.77,1.0,0
+sustained_vowel_candidate,VI2,3,6.1542708333333325,5.51,5.5,1.0,0
+sustained_vowel_candidate,VO1,3,14.7104375,16.830000000000002,10.55,1.0,0
+sustained_vowel_candidate,VO2,3,8.14989947089947,6.11,6.09,1.0,0
+sustained_vowel_candidate,VU1,3,20.873527966742255,17.6,17.52,1.0,0
+sustained_vowel_candidate,VU2,3,8.594208333333333,5.86,5.84,1.0,0
+syllable,D1,3,6.200666666666667,3.11,0.24,11.0,0
+syllable,D2,3,6.255166666666667,1.7,0.19,7.0,0

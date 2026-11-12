@@ -1,0 +1,5 @@
+dataset,local_audio_files,readable_audio_files,observed_sample_rates_hz_json,observed_channel_count_values,observed_subtypes,local_access_note
+ItalianPVS,831,831,"{""16000"": 671, ""44100"": 160}",[1],"[""PCM_16""]",inventory only; local copy was not merged or used for modeling
+Figshare_AH,81,81,"{""8000"": 81}",[1],"[""FLOAT""]",inventory only; local copy was not merged or used for modeling
+MDVR-KCL,73,73,"{""44100"": 73}",[1],"[""PCM_24""]",inventory only; local copy was not merged or used for modeling
+UCI_Parkinsons_Telemonitoring,0,0,not applicable: derived feature table; audio unavailable,not available,CSV numeric features,5875 feature rows; 42 subjects; 22 columns; PD-only longitudinal dataset

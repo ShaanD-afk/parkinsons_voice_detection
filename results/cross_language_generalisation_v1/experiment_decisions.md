@@ -1,0 +1,12 @@
+# Experiment decisions
+
+1. **Protect references:** VA1, reconciliation, audit, and prior outputs remain immutable. This work has a new directory and source package.
+2. **Primary external task:** compare Italian VA1 with Figshare prolonged `/a/` because the available task descriptions share a sustained `/a/` target. Classify as comparable with explicit limitations; Figshare language and exact Italian repetition/duration are unknown.
+3. **Feature set:** use four core features (median F0, local jitter, local shimmer, HNR) and one pre-specified extension (F0 IQR). No supervised feature selection was run; five features and n=29 do not support stable high-dimensional selection.
+4. **Raw audio:** re-extract both cohorts from original waveforms with the same implementation. Keep Figshare native 8 kHz and Italian native 16 kHz for primary transfer. Store separate Italian polyphase 8 kHz copies for rate sensitivity; never overwrite originals.
+5. **Other datasets:** MDVR reading is a provisional within-dataset exercise with candidate speech features; no connected-speech cross-transfer. MDVR dialogue classifier withheld due speaker attribution uncertainty. UCI #174/#301 receive separate feature-table-only within-dataset baselines; UCI #189 has no HC comparator.
+6. **Models:** Logistic Regression, RBF SVM, and Random Forest. Logistic raw-unit variant contrasts training-set standardization with no scaling; RF uses raw units. Preprocessing remains inside each split. Gradient Boosting was omitted because cohorts are small and simple models suffice; deep learning and domain adaptation were not used.
+7. **Validation:** nested stratified 5-fold outer / 3-fold inner participant CV for within-cohort performance; external source-only hyperparameter search and refit for zero-shot transfer. Class weights are balanced. Decision thresholds remain defaults; no external-label threshold tuning. Bootstrap CIs condition on saved predictions.
+8. **Domain test:** match Figshare participants by HC/PD counts to the Italian sample and classify dataset identity. Repeated subsample spread is not treated as independent replications.
+9. **Adjustments:** age/sex HC3 regression is a sensitivity model only. Sample rate, hardware, protocol, and cohort remain entangled with dataset identity; no harmonization algorithm or external adaptation is justified.
+10. **Interpretation:** state cross-dataset results only. Do not call them cross-language results, clinical validation, or confirmation of VI1 shimmer.

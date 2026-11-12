@@ -1,0 +1,17 @@
+{
+  "experiment_id": "ITALIAN-PHASE2-REMAINING-20261030",
+  "source_experiment": "ITALIAN-MULTITASK-V1-20261030",
+  "seed": 42026,
+  "sample_rates": "native; no classifier",
+  "vad_thresholds_db_below_p95": [
+    -30,
+    -35,
+    -40
+  ],
+  "bootstrap_replicates": 10000,
+  "python": "3.14.4 (main, Apr  7 2026, 13:13:20) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "scipy": "1.18.1",
+  "parselmouth": "0.4.7"
+}

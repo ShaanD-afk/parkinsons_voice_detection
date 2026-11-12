@@ -1,0 +1,18 @@
+check,status,observed,expected
+QC rows match eligible manifest,PASS,561,561
+No duplicate QC recordings,PASS,0,0
+QC task codes match selected tasks,PASS,"['B1', 'B2', 'D1', 'D2', 'FB1', 'VA1', 'VA2', 'VE1', 'VE2', 'VI1', 'VI2', 'VO1', 'VO2', 'VU1', 'VU2']","['VA1', 'VA2', 'VE1', 'VE2', 'VI1', 'VI2', 'VO1', 'VO2', 'VU1', 'VU2', 'D1', 'D2', 'B1', 'B2', 'FB1']"
+Native vowel feature rows match eligible manifest,PASS,145,145
+No duplicate participant-task features,PASS,0,0
+Native feature cohort groups valid,PASS,"['ELDERLY_HC', 'PD']","['ELDERLY_HC', 'PD']"
+Native sample-rate metadata is 16 kHz,PASS,[np.int64(16000)],[16000]
+Feature group assignments match reconciled manifest,PASS,0,0
+Per-recording sample-rate metadata matches reconciled manifest,PASS,0,0
+Resampled rows retain original and analysis rates,PASS,"{'rows': 35, 'original_rates': [44100], 'analysis_rates': [16000]}","{'original_rates': [44100], 'analysis_rates': [16000]}"
+Feature rows account for failures,PASS,145,145
+Repeat extraction row keys match,PASS,145,145
+Repeat extraction deterministic for core features,PASS,exact numeric equality,exact numeric equality
+No missing feature values replaced with zero,PASS,NaNs retained and failure table written,explicit missing values
+"Spectral flatness within [0,1]",PASS,0,0
+"Voiced frame fractions within [0,1]",PASS,0,0
+Protected VA1/reference artifacts unchanged,PASS,[],no hash changes

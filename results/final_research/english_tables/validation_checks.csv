@@ -1,0 +1,29 @@
+check,passed,observed,expected
+Figshare audio rows,True,81,81
+Figshare participant count,True,81,81
+Figshare group counts,True,"{'HC': 41, 'PD': 40}","{'HC': 41, 'PD': 40}"
+Figshare all readable,True,81,81
+Figshare workbook match,True,{1.0: 81},all ids match exactly once
+MDVR audio rows,True,73,73
+MDVR participant count,True,37,37
+MDVR group counts,True,"{'HC': 21, 'PD': 16}","{'HC': 21, 'PD': 16}"
+MDVR task coverage,True,"{'read_text': 37, 'spontaneous_dialogue': 36}","{'read_text': 37, 'spontaneous_dialogue': 36}"
+MDVR all readable,True,73,73
+MDVR separator anomaly retained,True,1,>=1
+UCI174 local file structure,True,"rows=195, ids=32, groups={'HC': 8, 'PD': 24}",195 rows; 32 ids; HC8/PD24
+UCI174 status consistency,True,0,0 conflicting participants
+UCI189 local file structure,True,"rows=5875, ids=42",5875 rows; 42 IDs
+UCI189 duplicate source copies,True,True,identical SHA-256
+UCI301 train structure,True,"rows=1040, ids=40, task rows/person=[np.int64(26)]",1040 rows; 40 IDs; 26 task rows each
+UCI301 test structure,True,"rows=168, ids=28, repeats/person=[np.int64(6)]",168 rows; 28 IDs; 6 repeats each
+Raw audio QC row totals,True,154,154
+Raw audio feature row totals,True,154,154
+Raw audio participant-task uniqueness,True,0,0 duplicates
+Effect comparisons have independent group participants,True,"['dataset', 'task', 'feature', 'n_hc', 'n_pd', 'mean_hc', 'mean_pd', 'median_hc', 'median_pd', 'mean_difference_hc_minus_pd', 'mean_diff_boot_ci95_low', 'mean_diff_boot_ci95_high', 'hedges_g_hc_minus_pd', 'hedges_g_boot_ci95_low', 'hedges_g_boot_ci95_high', 'cliffs_delta_hc_minus_pd', 'mann_whitney_p', 'participant_unit_verified', 'holm_p_within_task_4_features', 'holm_p_within_task_10_features', 'holm_p_within_task_5_features', 'holm_adjusted_p']",positive n_hc and n_pd columns
+Effect table contains no duplicate dataset-task-feature tests,True,0,0 duplicates
+MDVR VAD sensitivity rows,True,292,292
+MDVR VAD thresholds,True,"[np.int64(-35), np.int64(-30), np.int64(-25), np.int64(-20)]","[-20, -25, -30, -35]"
+Protected source hashes unchanged,True,440,440 source hashes identical
+Required research reports exist,True,[],"['italian_results.md', 'italian_manuscript_draft.md', 'english_dataset_inventory.md', 'english_results.md', 'english_manuscript_draft.md', 'cross_language_comparison.md', 'combined_research_summary.md', 'reproducibility_report.md', 'publication_readiness.md']"
+Figures exported as PNG and PDF,True,10 PNG / 10 PDF,">=10 of each, paired"
+Classifier not trained,True,reports state classifier disabled,no classifier training

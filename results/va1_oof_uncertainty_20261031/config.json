@@ -1,0 +1,13 @@
+{
+  "experiment_id": "VA1-OOF-UNCERTAINTY-20261031",
+  "input": "data/baseline_oof_predictions.csv",
+  "input_sha256": "d8d64109710c141cef51a687c71a017e5ca8f4d673a2b9fa704c057dc9b432a5",
+  "n_rows": 29,
+  "n_unique_participants": 29,
+  "replicates": 20000,
+  "seed": 20261031,
+  "resampling_unit": "participant",
+  "stratification": "true label; fixed class counts",
+  "predictions_refit": false,
+  "interpretation": "intervals are conditional on the fixed saved OOF predictions; not external validation or training-procedure uncertainty"
+}

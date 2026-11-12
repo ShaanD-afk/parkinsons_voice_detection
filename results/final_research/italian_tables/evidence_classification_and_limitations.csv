@@ -1,0 +1,8 @@
+task_or_analysis,unit_and_scope,observed_result,evidence_class,limitation
+VA1/VE1/VI1/VO1/VU1 sustained vowels,participant-level primary family,VI1 shimmer only survives original Holm 20-test correction,stronger exploratory evidence,small n; Yuen adjusted p=0.061; human review pending
+VI1 HNR and other shimmer contexts,secondary vowel-specific observations,not surviving primary-family correction,suggestive only,wide uncertainty; sensitive to task/context
+Second vowels,descriptive signal QC and paired summaries,shorter durations observed; protocol undefined,inconclusive,cannot call repetitions or test-retest reliability
+D1/D2,all-recording signal characterization,repeated CV-like bursts in most plots,human validation required,candidate peaks are not validated syllable counts or VOT
+B1/B2/FB1,candidate generic VAD/prosody/voice quality,threshold-sensitive speech masks; no inferential tests,human validation required,no transcript alignment; FB1 material unavailable
+VA1 cross-validation baseline,saved 29-person OOF predictions,"BA=.900, AUC=.917",exploratory benchmark only,not independent or clinical validation
+Frame/cycle or recording-level ML,not performed,would inflate n or invite leakage without participant controls,exclude from inferential conclusions,no classifiers trained in this package

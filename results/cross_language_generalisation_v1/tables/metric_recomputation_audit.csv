@@ -1,0 +1,61 @@
+evaluation,dataset,model,feature_set,predictions,match,training_dataset,test_dataset
+within,ItalianPVS_VA1,Logistic_scaled,core4,29,True,,
+within,ItalianPVS_VA1,Logistic_unscaled,core4,29,True,,
+within,ItalianPVS_VA1,SVM_RBF_scaled,core4,29,True,,
+within,ItalianPVS_VA1,RandomForest,core4,29,True,,
+within,ItalianPVS_VA1,Logistic_scaled,core5,29,True,,
+within,ItalianPVS_VA1,Logistic_unscaled,core5,29,True,,
+within,ItalianPVS_VA1,SVM_RBF_scaled,core5,29,True,,
+within,ItalianPVS_VA1,RandomForest,core5,29,True,,
+within,Figshare_sustained_a,Logistic_scaled,core4,81,True,,
+within,Figshare_sustained_a,Logistic_unscaled,core4,81,True,,
+within,Figshare_sustained_a,SVM_RBF_scaled,core4,81,True,,
+within,Figshare_sustained_a,RandomForest,core4,81,True,,
+within,Figshare_sustained_a,Logistic_scaled,core5,81,True,,
+within,Figshare_sustained_a,Logistic_unscaled,core5,81,True,,
+within,Figshare_sustained_a,SVM_RBF_scaled,core5,81,True,,
+within,Figshare_sustained_a,RandomForest,core5,81,True,,
+within,MDVR-KCL_read_text,Logistic_scaled,task_specific,37,True,,
+within,MDVR-KCL_read_text,Logistic_unscaled,task_specific,37,True,,
+within,MDVR-KCL_read_text,SVM_RBF_scaled,task_specific,37,True,,
+within,MDVR-KCL_read_text,RandomForest,task_specific,37,True,,
+within,UCI174_feature_table,Logistic_scaled,task_specific,32,True,,
+within,UCI174_feature_table,Logistic_unscaled,task_specific,32,True,,
+within,UCI174_feature_table,SVM_RBF_scaled,task_specific,32,True,,
+within,UCI174_feature_table,RandomForest,task_specific,32,True,,
+within,UCI301_a_feature_table,Logistic_scaled,task_specific,40,True,,
+within,UCI301_a_feature_table,Logistic_unscaled,task_specific,40,True,,
+within,UCI301_a_feature_table,SVM_RBF_scaled,task_specific,40,True,,
+within,UCI301_a_feature_table,RandomForest,task_specific,40,True,,
+within,UCI301_o_feature_table,Logistic_scaled,task_specific,40,True,,
+within,UCI301_o_feature_table,Logistic_unscaled,task_specific,40,True,,
+within,UCI301_o_feature_table,SVM_RBF_scaled,task_specific,40,True,,
+within,UCI301_o_feature_table,RandomForest,task_specific,40,True,,
+within,UCI301_u_feature_table,Logistic_scaled,task_specific,40,True,,
+within,UCI301_u_feature_table,Logistic_unscaled,task_specific,40,True,,
+within,UCI301_u_feature_table,SVM_RBF_scaled,task_specific,40,True,,
+within,UCI301_u_feature_table,RandomForest,task_specific,40,True,,
+external,,Logistic_scaled,core4,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,Logistic_unscaled,core4,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,SVM_RBF_scaled,core4,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,RandomForest,core4,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,Logistic_scaled,core5,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,Logistic_unscaled,core5,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,SVM_RBF_scaled,core5,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,RandomForest,core5,81,True,ItalianPVS_VA1 16k,Figshare_sustained_a 8k
+external,,Logistic_scaled,core4,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,Logistic_unscaled,core4,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,SVM_RBF_scaled,core4,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,RandomForest,core4,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,Logistic_scaled,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,Logistic_unscaled,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,SVM_RBF_scaled,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,RandomForest,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 16k
+external,,Logistic_scaled,core5,81,True,ItalianPVS_VA1 resampled 8k,Figshare_sustained_a 8k
+external,,Logistic_unscaled,core5,81,True,ItalianPVS_VA1 resampled 8k,Figshare_sustained_a 8k
+external,,SVM_RBF_scaled,core5,81,True,ItalianPVS_VA1 resampled 8k,Figshare_sustained_a 8k
+external,,RandomForest,core5,81,True,ItalianPVS_VA1 resampled 8k,Figshare_sustained_a 8k
+external,,Logistic_scaled,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 resampled 8k
+external,,Logistic_unscaled,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 resampled 8k
+external,,SVM_RBF_scaled,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 resampled 8k
+external,,RandomForest,core5,29,True,Figshare_sustained_a 8k,ItalianPVS_VA1 resampled 8k

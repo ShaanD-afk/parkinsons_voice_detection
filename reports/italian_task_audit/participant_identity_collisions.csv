@@ -1,0 +1,10 @@
+cohort_group,group_folder,participant_folder,participant_id,normalized_terminal_name,collision_type
+PD,28 People with Parkinson's disease,1-5/Roberto R,PD::1-5/Roberto R,ROBERTO R,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,11-16/Nicola S,PD::11-16/Nicola S,NICOLA S,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,11-16/Roberto R,PD::11-16/Roberto R,ROBERTO R,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,11-16/Vito S,PD::11-16/Vito S,VITO S,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,17-28/Vito L,PD::17-28/Vito L,VITO L,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,17-28/Vito S,PD::17-28/Vito S,VITO S,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,6-10/Nicola S,PD::6-10/Nicola S,NICOLA S,same terminal name; separate group/folder identity retained
+PD,28 People with Parkinson's disease,6-10/Vito S,PD::6-10/Vito S,VITO S,same terminal name; separate group/folder identity retained
+ELDERLY_HC,22 Elderly Healthy Control,VITO L,ELDERLY_HC::VITO L,VITO L,same terminal name; separate group/folder identity retained

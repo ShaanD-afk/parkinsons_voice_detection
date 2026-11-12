@@ -1,0 +1,5 @@
+MPLCONFIGDIR=results/cross_language_generalisation_v1/configs/mpl_cache PYTHONDONTWRITEBYTECODE=1 .venv/bin/python -m src.cross_language_generalisation.run_experiment
+MPLCONFIGDIR=results/cross_language_generalisation_v1/configs/mpl_cache PYTHONDONTWRITEBYTECODE=1 .venv/bin/python -m src.cross_language_generalisation.run_ablation
+MPLCONFIGDIR=results/cross_language_generalisation_v1/configs/mpl_cache PYTHONDONTWRITEBYTECODE=1 .venv/bin/python -m src.cross_language_generalisation.write_reports
+MPLCONFIGDIR=results/cross_language_generalisation_v1/configs/mpl_cache PYTHONDONTWRITEBYTECODE=1 .venv/bin/python -m src.cross_language_generalisation.validate_experiment
+MPLCONFIGDIR=results/cross_language_generalisation_v1/configs/mpl_cache PYTHONDONTWRITEBYTECODE=1 .venv/bin/python -m pytest tests/ -q

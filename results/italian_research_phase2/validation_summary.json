@@ -1,0 +1,10 @@
+{
+  "experiment_id": "ITALIAN-PHASE2-REMAINING-20261030",
+  "computational_checks_passed": 21,
+  "computational_checks_failed": 0,
+  "human_review_items_open": 159,
+  "manual_annotations_completed": 0,
+  "participant_exclusions_from_automated_qc": 0,
+  "classifier_trained": false,
+  "validation_status": "PASS"
+}

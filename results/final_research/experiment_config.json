@@ -1,0 +1,58 @@
+{
+  "experiment_id": "ENGLISH-VOICE-DATASET-AUDIT-20261031",
+  "package_id": "FINAL-RESEARCH-PACKAGE-20261031",
+  "created": "2026-10-31 Asia/Kolkata",
+  "analysis_roots": {
+    "figshare": "/Users/Shaan/Desktop/datasets/figshare",
+    "mdvr_kcl": "/Users/Shaan/Desktop/datasets/MDVR-KCL",
+    "datasets": "/Users/Shaan/Desktop/datasets"
+  },
+  "raw_audio_features": [
+    "median_f0_hz",
+    "jitter_local",
+    "shimmer_local",
+    "hnr_mean_db"
+  ],
+  "mdvr_features": [
+    "active_speech_fraction",
+    "pause_count_candidate",
+    "pause_fraction_candidate",
+    "median_f0_active_hz",
+    "f0_iqr_active_hz",
+    "voiced_fraction_active",
+    "hnr_median_active_db",
+    "relative_intensity_iqr_db",
+    "spectral_centroid_active_hz",
+    "spectral_rolloff_85_active_hz"
+  ],
+  "praat_pitch_floor_hz": 75,
+  "praat_pitch_ceiling_hz": 500,
+  "pitch_step_s": 0.01,
+  "vowel_stable_interval": "longest 75Hz-floor voiced run; trim 10% each edge",
+  "mdvr_vad": {
+    "original_rate_hz": 44100,
+    "analysis_rate_hz": 16000,
+    "resampling": "scipy.signal.resample_poly",
+    "frame_ms": 25,
+    "hop_ms": 10,
+    "threshold_db_below_p95": -25,
+    "one_frame_gap_closure": true,
+    "minimum_internal_pause_ms": 250
+  },
+  "participant_bootstraps": 5000,
+  "random_seed": 20261031,
+  "group_test": "two-sided Mann-Whitney U; one participant per dataset-task row; Holm within dataset/task feature family",
+  "confidence_intervals": "participant bootstrap percentile for mean differences and Hedges g",
+  "UCI174_repeated_rows": "participant median aggregation before inference",
+  "UCI301": "one row per participant-task for training comparisons; PD-only test partition separate",
+  "UCI189": "within-participant Spearman feature/UPDRS, then participant-level summary",
+  "classifier_trained": false,
+  "source_files_sha256_before": 440,
+  "python": "3.14.4",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "scipy": "1.18.1",
+  "soundfile": "0.14.0",
+  "parselmouth": "0.4.7",
+  "matplotlib": "3.11.2"
+}

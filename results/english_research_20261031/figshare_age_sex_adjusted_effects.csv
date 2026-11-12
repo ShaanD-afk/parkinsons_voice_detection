@@ -1,0 +1,5 @@
+feature,n,adjusted_pd_minus_hc,hc3_ci95_low,hc3_ci95_high,hc3_se,p_value_unadjusted,covariates,interpretation,holm_p_within_task_4_features
+median_f0_hz,81,46.445376671207136,26.605665367670234,66.28508797474404,9.963423734046428,1.2936068522532766e-05,"age, sex; HC reference","exploratory linear association, HC3 heteroskedasticity-robust CI",5.174427409013106e-05
+jitter_local,81,-0.0005689156654600479,-0.0019018119913791155,0.0007639806604590198,0.0006693752084143386,0.39800432259363594,"age, sex; HC reference","exploratory linear association, HC3 heteroskedasticity-robust CI",0.5141366199614358
+shimmer_local,81,-0.008882059306238102,-0.02437178617025008,0.006607667557773877,0.00777887893173528,0.2570683099807179,"age, sex; HC reference","exploratory linear association, HC3 heteroskedasticity-robust CI",0.5141366199614358
+hnr_mean_db,81,1.345663548831608,-0.4498255126866919,3.141152610349908,0.9016874316393403,0.13968468327411845,"age, sex; HC reference","exploratory linear association, HC3 heteroskedasticity-robust CI",0.4190540498223554

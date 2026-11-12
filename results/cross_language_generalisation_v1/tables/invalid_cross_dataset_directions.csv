@@ -1,0 +1,5 @@
+evaluation,training_dataset,test_dataset,task_compatibility,model,features,training_participants,training_n_hc,training_n_pd,test_participants,test_n_hc,test_n_pd,balanced_accuracy,sensitivity,specificity,roc_auc,evaluation_status
+external_not_run_invalid_task_match,ItalianPVS_VA1,MDVR-KCL_read_text,sustained phonation vs connected reading,not_run,not comparable,29,17,12,37,21,16,,,,,invalid_not_comparable
+external_not_run_invalid_task_match,MDVR-KCL_read_text,ItalianPVS_VA1,sustained phonation vs connected reading,not_run,not comparable,37,21,16,29,17,12,,,,,invalid_not_comparable
+external_not_run_invalid_task_match,Figshare_sustained_a,MDVR-KCL_read_text,sustained phonation vs connected reading,not_run,not comparable,81,41,40,37,21,16,,,,,invalid_not_comparable
+external_not_run_invalid_task_match,MDVR-KCL_read_text,Figshare_sustained_a,sustained phonation vs connected reading,not_run,not comparable,37,21,16,81,41,40,,,,,invalid_not_comparable

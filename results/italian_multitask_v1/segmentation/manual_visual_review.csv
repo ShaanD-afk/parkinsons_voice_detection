@@ -1,0 +1,6 @@
+task_family,blind_sample_n,visual_observation
+first vowel codes,15,"Most inspected examples show long voiced intervals; some have onset decay, interruptions, or multiple voiced intervals. Candidate stable-region segmentation needs file-level QC."
+second vowel codes,15,Vowel-like phonation visible in samples; do not infer second-trial or repetition relationship.
+D1/D2,6,All sampled plots show repeated CV-like bursts; exact repetition instruction/count and full-cohort consistency remain unknown.
+B1/B2/FB1,11,Connected speech and pauses visible; RMS VAD fragments speech into short bouts. No transcript or alignment inferred.
+background signal,47,Waveforms/spectrograms inspected; noise cannot be quantified as SNR without noise-only reference or calibration.

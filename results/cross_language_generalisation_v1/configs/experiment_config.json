@@ -1,0 +1,98 @@
+{
+  "class_imbalance": "class_weight=balanced for LR/SVM/RF; participant-level class-stratified bootstrap CI conditional on held-out predictions",
+  "core_features": {
+    "core4": [
+      "median_f0_hz",
+      "jitter_local",
+      "shimmer_local",
+      "hnr_mean_db"
+    ],
+    "core5": [
+      "median_f0_hz",
+      "f0_iqr_hz",
+      "jitter_local",
+      "shimmer_local",
+      "hnr_mean_db"
+    ]
+  },
+  "dataset_classifier": "30 matched subsamples with Figshare sampled within HC/PD to Italian counts; 5-fold OOF, no participant overlap",
+  "experiment_id": "CROSS-LANGUAGE-GENERALISATION-V1-20261031",
+  "external_evaluation": "source-only GridSearchCV (up to 5 folds) then refit on all source; target cohort never used for tuning, scaling, imputation, selection or threshold setting; default decision threshold",
+  "feature_settings_pitch_floors_hz": [
+    60,
+    75,
+    90
+  ],
+  "git_status_before_file": "logs/git_status_before.txt",
+  "models": {
+    "Logistic_scaled": {
+      "estimator": "Pipeline(steps=[('imputer', SimpleImputer(strategy='median')),\n                ('scaler', StandardScaler()),\n                ('model',\n                 LogisticRegression(class_weight='balanced', max_iter=5000,\n                                    random_state=20261031,\n                                    solver='liblinear'))])",
+      "grid": {
+        "model__C": [
+          0.01,
+          0.1,
+          1,
+          10
+        ]
+      }
+    },
+    "Logistic_unscaled": {
+      "estimator": "Pipeline(steps=[('imputer', SimpleImputer(strategy='median')),\n                ('model',\n                 LogisticRegression(class_weight='balanced', max_iter=5000,\n                                    random_state=20261031,\n                                    solver='liblinear'))])",
+      "grid": {
+        "model__C": [
+          0.01,
+          0.1,
+          1,
+          10
+        ]
+      }
+    },
+    "RandomForest": {
+      "estimator": "Pipeline(steps=[('imputer', SimpleImputer(strategy='median')),\n                ('model',\n                 RandomForestClassifier(class_weight='balanced',\n                                        n_estimators=300, n_jobs=1,\n                                        random_state=20261031))])",
+      "grid": {
+        "model__max_depth": [
+          2,
+          4,
+          null
+        ],
+        "model__min_samples_leaf": [
+          1,
+          2
+        ]
+      }
+    },
+    "SVM_RBF_scaled": {
+      "estimator": "Pipeline(steps=[('imputer', SimpleImputer(strategy='median')),\n                ('scaler', StandardScaler()),\n                ('model', SVC(class_weight='balanced'))])",
+      "grid": {
+        "model__C": [
+          0.1,
+          1,
+          10
+        ],
+        "model__gamma": [
+          "scale",
+          "auto"
+        ]
+      }
+    }
+  },
+  "nested_cv": {
+    "outer": "StratifiedKFold 5; inner StratifiedKFold 3; grid search scoring balanced accuracy; no feature selection; model selection inside training folds"
+  },
+  "no_deep_learning": true,
+  "no_external_adaptation": true,
+  "no_gradient_boosting_reason": "smallest cohort n=29 with only five pre-specified acoustic features; classical LR/SVM/RF favored; avoid unstable additional model family",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "parselmouth": "0.4.7",
+  "primary_task": "ItalianPVS VA1 sustained /a/ vs Figshare prolonged /a/",
+  "python": "3.14.4",
+  "sample_rate_sensitivity": "Italian native 16 kHz vs stored polyphase 8 kHz analysis copies; Figshare native 8 kHz retained",
+  "scipy": "1.18.1",
+  "scope": "exploratory cross-dataset evaluation; Figshare language not established",
+  "seed": 20261031,
+  "sklearn": "1.9.1",
+  "soundfile": "0.14.0",
+  "source_file_count_before": 1429,
+  "timestamp_local": "2026-10-31 Asia/Kolkata"
+}

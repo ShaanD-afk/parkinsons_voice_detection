@@ -1,0 +1,11 @@
+task,feature,definition,settings,validity_and_limits
+Figshare sustained /a/,median_f0_hz,Praat autocorrelation; voiced stable interval,75–500 Hz; 10 ms step; longest voiced run; 10% end trim,candidate; pitch-floor sensitivity needed
+Figshare sustained /a/,jitter_local,Praat local cycle period perturbation,stable interval; 0.0001–0.02 s; period factor 1.3,cycle validity depends on stable periodic phonation
+Figshare sustained /a/,shimmer_local,Praat local cycle amplitude perturbation,stable interval; 0.0001–0.02 s; period factor 1.3; amplitude factor 1.6,sensitive to phone gain/noise; exploratory
+Figshare sustained /a/,hnr_mean_db,Praat CC harmonicity; average valid frames,10 ms; minimum pitch 75 Hz; silence threshold .1; one period/window,bandwidth/device effects; exploratory
+MDVR reading/dialogue,speech activity/pause candidates,"25 ms RMS frames, 10 ms hop; provisional −25 dB relative to each file p95; sensitivity at −20/−25/−30/−35; close 10 ms holes; pauses >=250 ms",original 44.1 kHz PCM24 downsampled with polyphase to 16 kHz for analysis; no transcript,not speaker-specific and not human-validated; downsampling does not restore bandwidth
+MDVR reading/dialogue,F0 and voicing,Praat autocorrelation in active RMS-VAD frames,16 kHz analysis; 75–500 Hz; 10 ms step,speaker mixture possible in dialogue; no individual voice attribution
+MDVR reading/dialogue,HNR,Praat CC harmonicity within candidate active windows,16 kHz analysis; 10 ms; min pitch 75 Hz; periods/window 1,candidate voiced-active frames only; human review absent
+MDVR reading/dialogue,relative intensity dynamics,IQR of active-frame RMS in dB,16 kHz analysis; 25 ms; 10 ms hop; relative within recording,not calibrated sound pressure
+MDVR reading/dialogue,jitter/shimmer/formants,not extracted,no stable utterance-level segmentation or validated speaker-only periods,deferred
+All English connected speech,CPP/CPPS,not extracted,no validated implementation in this pipeline,deferred

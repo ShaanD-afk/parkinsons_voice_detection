@@ -1,0 +1,10 @@
+dataset,group,participants,age_mean,age_sd,age_median,age_q1,age_q3,female_n,male_n,unknown_fields
+Figshare,HC,41,47.73170731707317,14.328336243688419,45.0,40.0,55.0,25.0,16.0,
+Figshare,PD,40,67.035,8.982818928233826,67.89500000000001,61.365,72.4175,19.0,21.0,
+MDVR-KCL,HC,21,,,,,,,,age/sex absent from local bundle
+MDVR-KCL,PD,16,,,,,,,,age/sex absent from local bundle
+UCI174 feature table,HC,8,,,,,,,,age/sex absent from local feature table
+UCI174 feature table,PD,24,,,,,,,,age/sex absent from local feature table
+UCI301 training table,HC,20,,,,,,,,age/sex not in local archive; UCI reports sex counts
+UCI301 training table,PD,20,,,,,,,,age/sex not in local archive; UCI reports sex counts
+UCI189 telemonitoring,PD,42,,,,,,,,HC group absent

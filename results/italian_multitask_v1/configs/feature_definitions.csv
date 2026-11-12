@@ -1,0 +1,16 @@
+feature,definition,settings_and_limits
+median_f0_hz,Median positive Praat autocorrelation F0 on trimmed stable voiced segment,10 ms step; 75-500 Hz reference; sensitivity 60/90 Hz
+f0_iqr_hz,75th minus 25th percentile of positive F0 frames,Same pitch settings; voiced frames only
+f0_std_hz,Sample standard deviation of positive F0 frames,Same pitch settings; voiced frames only
+voiced_frame_fraction,Positive F0 frames divided by all analyzed pitch frames,Same pitch settings
+usable_voiced_duration_s,Number of positive F0 frames times 0.01 s,Same pitch settings
+jitter_local,Praat local cycle period perturbation,Stable segment; 0.0001-0.02 s; period factor 1.3
+shimmer_local,Praat local cycle amplitude perturbation,Stable segment; 0.0001-0.02 s; period factor 1.3; amplitude factor 1.6
+hnr_mean_db,Mean valid Praat CC harmonicity frames > -100 dB,10 ms; minimum pitch=floor; silence threshold 0.1; 1 period/window
+f1_hz/f2_hz/f3_hz,Median Praat Burg formants sampled over the stable voiced interval,10 ms; 5 formants; max formant 5000 Hz; 25 ms window; 50 Hz pre-emphasis; broad plausibility flags
+f1_iqr_hz/f2_iqr_hz/f3_iqr_hz,IQR of sampled formant tracks,Same Burg settings; track stability descriptor
+spectral_centroid_hz,Median frame magnitude-weighted frequency,Hann 25 ms; 10 ms hop; stable voiced segment
+spectral_rolloff_85_hz,Frequency at 85% cumulative magnitude,Hann 25 ms; 10 ms hop; stable voiced segment
+spectral_flatness,Geometric/ arithmetic mean spectrum magnitude ratio,Hann 25 ms; 10 ms hop; stable voiced segment
+cpps,Cepstral peak prominence,Deferred; no validated implementation available in installed environment
+spectral_tilt,Spectral tilt,Deferred pending validated definition and implementation

@@ -1,0 +1,15 @@
+feature,group,participants_with_any_vowel,complete_all_five_vowels,incomplete
+median_f0_hz,ELDERLY_HC,17,17,0
+median_f0_hz,PD,12,12,0
+f0_iqr_hz,ELDERLY_HC,17,17,0
+f0_iqr_hz,PD,12,12,0
+jitter_local,ELDERLY_HC,17,17,0
+jitter_local,PD,12,12,0
+shimmer_local,ELDERLY_HC,17,17,0
+shimmer_local,PD,12,12,0
+hnr_mean_db,ELDERLY_HC,17,17,0
+hnr_mean_db,PD,12,12,0
+f1_hz,ELDERLY_HC,17,17,0
+f1_hz,PD,12,12,0
+f2_hz,ELDERLY_HC,17,17,0
+f2_hz,PD,12,12,0

@@ -1,0 +1,13 @@
+{
+  "experiment_id": "CROSS-LANGUAGE-GENERALISATION-V1-DOMAIN-ABLATION-20261031",
+  "target": "dataset identity",
+  "model": "LogisticRegression(C=1, solver=liblinear, class_weight=balanced)",
+  "preprocessing": "SimpleImputer(median) and StandardScaler fitted inside each training fold",
+  "features": ["median_f0_hz", "f0_iqr_hz", "jitter_local", "shimmer_local", "hnr_mean_db"],
+  "feature_sets": "all 5; 5 leave-one-feature-out sets; 5 one-feature-only sets",
+  "matching": "30 repeated Figshare samples matched to Italian VA1 within diagnosis (17 HC and 12 PD per dataset)",
+  "validation": "Stratified 5-fold OOF, stratified on dataset-by-diagnosis cells; no participant appears in train and test in a fold",
+  "seed": 20261031,
+  "threshold": "fixed logistic 0.5 probability; no tuning",
+  "interpretation": "feature-domain ablation sensitivity, not a causal feature-importance analysis"
+}

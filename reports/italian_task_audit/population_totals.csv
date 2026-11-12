@@ -1,0 +1,10 @@
+population,group,recordings,unique_participants,sample_rates
+full_dataset,YOUNG_HC,45,15,16000 Hz: 45
+full_dataset,ELDERLY_HC,349,22,16000 Hz: 349
+full_dataset,PD,437,28,16000 Hz: 277;44100 Hz: 160
+reconciled_hc_pd,YOUNG_HC,0,0,
+reconciled_hc_pd,ELDERLY_HC,272,17,16000 Hz: 272
+reconciled_hc_pd,PD,295,19,16000 Hz: 183;44100 Hz: 112
+reconciled_hc_pd_16khz,YOUNG_HC,0,0,
+reconciled_hc_pd_16khz,ELDERLY_HC,272,17,16000 Hz: 272
+reconciled_hc_pd_16khz,PD,183,12,16000 Hz: 183

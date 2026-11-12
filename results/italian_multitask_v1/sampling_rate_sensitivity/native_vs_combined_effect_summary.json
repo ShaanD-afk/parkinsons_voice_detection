@@ -1,0 +1,7 @@
+{
+  "core_feature_task_comparisons": 20,
+  "mean_difference_sign_flips": 0,
+  "mean_absolute_change_in_HC_minus_PD_mean_difference": 1.121065607703731,
+  "mean_absolute_change_in_hedges_g": 0.11644023536215502,
+  "interpretation": "Descriptive sensitivity only; resampled recordings are all PD, so original sample rate remains group-associated."
+}

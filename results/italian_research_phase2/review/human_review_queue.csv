@@ -1,0 +1,160 @@
+review_id,relative_path,task_code,group,participant_folder,sample_rate_hz,priority,reason,source
+R0001,22 Elderly Healthy Control/AGNESE P/B1APGANRET55F170320171104.wav,B1,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0002,22 Elderly Healthy Control/BRIGIDA C/B1BCRAISGS48F210320171002.wav,B1,ELDERLY_HC,BRIGIDA C,16000,high,possible_clipping,automated_qc
+R0003,22 Elderly Healthy Control/GILDA C/B1GCIALSDA52F170320171124.wav,B1,ELDERLY_HC,GILDA C,16000,high,possible_clipping,automated_qc
+R0004,22 Elderly Healthy Control/AGNESE P/B2APGANRET55F170320171105.wav,B2,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0005,22 Elderly Healthy Control/GILDA C/B2GCIALSDA52F170320171125.wav,B2,ELDERLY_HC,GILDA C,16000,high,possible_clipping,automated_qc
+R0006,22 Elderly Healthy Control/AGNESE P/D1APGANRET55F170320171106.wav,D1,ELDERLY_HC,AGNESE P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated; possible_clipping,D1_D2_protocol_review; automated_qc
+R0007,22 Elderly Healthy Control/ANGELA C/D1ACNAGRER49F210320171134.wav,D1,ELDERLY_HC,ANGELA C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0008,22 Elderly Healthy Control/ANGELA G/D1AGNIGNEE54F230320171019.wav,D1,ELDERLY_HC,ANGELA G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0009,22 Elderly Healthy Control/ANTONIETTA P/D1APNITNOT56F230320170849.wav,D1,ELDERLY_HC,ANTONIETTA P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0010,22 Elderly Healthy Control/ANTONIO C/D1ACNUTCOC40M230320171124.wav,D1,ELDERLY_HC,ANTONIO C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0011,22 Elderly Healthy Control/BRIGIDA C/D1BCRAISGS48F210320171004.wav,D1,ELDERLY_HC,BRIGIDA C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0012,22 Elderly Healthy Control/GILDA C/D1GCIALSDA52F170320171126.wav,D1,ELDERLY_HC,GILDA C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated; possible_clipping,D1_D2_protocol_review; automated_qc
+R0013,22 Elderly Healthy Control/GIOVANNA G/D1GGIAORVG47F300320171212.wav,D1,ELDERLY_HC,GIOVANNA G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0014,22 Elderly Healthy Control/GIOVANNI B/D1GBIAORVI48M230320171235.wav,D1,ELDERLY_HC,GIOVANNI B,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0015,22 Elderly Healthy Control/GRAZIA G/D1GGRIAUZL45F020420171820.wav,D1,ELDERLY_HC,GRAZIA G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0016,22 Elderly Healthy Control/LEONARDA F/D1LFEIOONR57F210320171125.wav,D1,ELDERLY_HC,LEONARDA F,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0017,22 Elderly Healthy Control/LUIGI P/D1LPUUITGI41M230320171110.wav,D1,ELDERLY_HC,LUIGI P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0018,22 Elderly Healthy Control/MARIACRISTINA P/D1MPAERRIR56F300320171145.wav,D1,ELDERLY_HC,MARIACRISTINA P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0019,22 Elderly Healthy Control/MICHELE G/D1MGIACTHT49M210320170854.wav,D1,ELDERLY_HC,MICHELE G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0020,22 Elderly Healthy Control/NICOLA P/D1NPIICEOR42M020420171807.wav,D1,ELDERLY_HC,NICOLA P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0021,22 Elderly Healthy Control/TERESA M/D1TMEIRAEC54F230320171152.wav,D1,ELDERLY_HC,TERESA M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0022,22 Elderly Healthy Control/VITO A/D1VAILTFOO49M230320171030.wav,D1,ELDERLY_HC,VITO A,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0023,28 People with Parkinson's disease/1-5/Domenico C/D1cdaopmoe67M2605161905.wav,D1,PD,1-5/Domenico C,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0024,28 People with Parkinson's disease/1-5/Felicetta C/D1cfaerlei54F2605161742.wav,D1,PD,1-5/Felicetta C,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0025,28 People with Parkinson's disease/1-5/Leonarda L/D1lloeroun56F2605161924.wav,D1,PD,1-5/Leonarda L,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0026,28 People with Parkinson's disease/1-5/Lucia R/D1rlouscsi77F2605161822.wav,D1,PD,1-5/Lucia R,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0027,28 People with Parkinson's disease/11-16/Anna B/D1ABNINSAC46F240120171756.wav,D1,PD,11-16/Anna B,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0028,28 People with Parkinson's disease/11-16/Michele C/D1MCIICLHL46M240120171828.wav,D1,PD,11-16/Michele C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0029,28 People with Parkinson's disease/11-16/Roberto L/D1RLOABREE42M240120171944.wav,D1,PD,11-16/Roberto L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0030,28 People with Parkinson's disease/17-28/Antonia G/D1AGNUTGOL52F100220171046.wav,D1,PD,17-28/Antonia G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0031,28 People with Parkinson's disease/17-28/Daria L/D1DLAARCII37F100220171113.wav,D1,PD,17-28/Daria L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0032,28 People with Parkinson's disease/17-28/Giovanni M/D1GMIAOSVI44M100220170945.wav,D1,PD,17-28/Giovanni M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0033,28 People with Parkinson's disease/17-28/Giovanni N/D1GNIEOGVL47M100220171215.wav,D1,PD,17-28/Giovanni N,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0034,28 People with Parkinson's disease/17-28/Giulia L/D1GLIAUDLO50F100220171259.wav,D1,PD,17-28/Giulia L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0035,28 People with Parkinson's disease/17-28/Giulia P/D1GPIUUGLL63F100220171022.wav,D1,PD,17-28/Giulia P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0036,28 People with Parkinson's disease/17-28/Giustina M/D1GMIAUSST39F100220171157.wav,D1,PD,17-28/Giustina M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0037,28 People with Parkinson's disease/17-28/Nicola M/D1NMIICNOO52M100220171135.wav,D1,PD,17-28/Nicola M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0038,28 People with Parkinson's disease/17-28/Vito L/D1VLIAT OP47M100220171317.wav,D1,PD,17-28/Vito L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0039,28 People with Parkinson's disease/6-10/Luigi B/D1lbuairgo52M1606161812.wav,D1,PD,6-10/Luigi B,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0040,28 People with Parkinson's disease/6-10/Saverio S/D1ssacvhei61M1606161742.wav,D1,PD,6-10/Saverio S,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0041,28 People with Parkinson's disease/6-10/Ugo B/D1ubguot_t40M1606161758.wav,D1,PD,6-10/Ugo B,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0042,22 Elderly Healthy Control/AGNESE P/D2APGANRET55F170320171107.wav,D2,ELDERLY_HC,AGNESE P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated; possible_clipping,D1_D2_protocol_review; automated_qc
+R0043,22 Elderly Healthy Control/ANGELA C/D2ACNAGRER49F210320171135.wav,D2,ELDERLY_HC,ANGELA C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0044,22 Elderly Healthy Control/ANGELA G/D2AGNIGNEE54F230320171020.wav,D2,ELDERLY_HC,ANGELA G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0045,22 Elderly Healthy Control/ANTONIETTA P/D2APNITNOT56F230320170850.wav,D2,ELDERLY_HC,ANTONIETTA P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0046,22 Elderly Healthy Control/ANTONIO C/D2ACNUTCOC40M230320171124.wav,D2,ELDERLY_HC,ANTONIO C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0047,22 Elderly Healthy Control/BRIGIDA C/D2BCRAISGS48F210320171005.wav,D2,ELDERLY_HC,BRIGIDA C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0048,22 Elderly Healthy Control/GILDA C/D2GCIALSDA52F170320171126.wav,D2,ELDERLY_HC,GILDA C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated; possible_clipping,D1_D2_protocol_review; automated_qc
+R0049,22 Elderly Healthy Control/GIOVANNA G/D2GGIAORVG47F300320171212.wav,D2,ELDERLY_HC,GIOVANNA G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0050,22 Elderly Healthy Control/GIOVANNI B/D2GBIAORVI48M230320171235.wav,D2,ELDERLY_HC,GIOVANNI B,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0051,22 Elderly Healthy Control/GRAZIA G/D2GGRIAUZL45F020420171820.wav,D2,ELDERLY_HC,GRAZIA G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0052,22 Elderly Healthy Control/LEONARDA F/D2LFEIOONR57F210320171125.wav,D2,ELDERLY_HC,LEONARDA F,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0053,22 Elderly Healthy Control/LUIGI P/D2LPUUITGI41M230320171111.wav,D2,ELDERLY_HC,LUIGI P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0054,22 Elderly Healthy Control/MARIACRISTINA P/D2MPAERRIR56F300320171145.wav,D2,ELDERLY_HC,MARIACRISTINA P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0055,22 Elderly Healthy Control/MICHELE G/D2MGIACTHT49M210320170855.wav,D2,ELDERLY_HC,MICHELE G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0056,22 Elderly Healthy Control/NICOLA P/D2NPIICEOR42M020420171807.wav,D2,ELDERLY_HC,NICOLA P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0057,22 Elderly Healthy Control/TERESA M/D2TMEIRAEC54F230320171152.wav,D2,ELDERLY_HC,TERESA M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0058,22 Elderly Healthy Control/VITO A/D2VAILTFOO49M230320171031.wav,D2,ELDERLY_HC,VITO A,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0059,28 People with Parkinson's disease/1-5/Domenico C/D2cdaopmoe67M2605161905.wav,D2,PD,1-5/Domenico C,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0060,28 People with Parkinson's disease/1-5/Felicetta C/D2cfaerlei54F2605161742.wav,D2,PD,1-5/Felicetta C,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0061,28 People with Parkinson's disease/1-5/Leonarda L/D2lloeroun56F2605161924.wav,D2,PD,1-5/Leonarda L,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0062,28 People with Parkinson's disease/1-5/Lucia R/D2rlouscsi77F2605161823.wav,D2,PD,1-5/Lucia R,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0063,28 People with Parkinson's disease/11-16/Anna B/D2ABNINSAC46F240120171756.wav,D2,PD,11-16/Anna B,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0064,28 People with Parkinson's disease/11-16/Michele C/D2MCIICLHL46M240120171828.wav,D2,PD,11-16/Michele C,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0065,28 People with Parkinson's disease/11-16/Roberto L/D2RLOABREE42M240120171946.wav,D2,PD,11-16/Roberto L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0066,28 People with Parkinson's disease/17-28/Antonia G/D2AGNUTGOL52F100220171046.wav,D2,PD,17-28/Antonia G,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0067,28 People with Parkinson's disease/17-28/Daria L/D2DLAARCII37F100220171113.wav,D2,PD,17-28/Daria L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0068,28 People with Parkinson's disease/17-28/Giovanni M/D2GMIAOSVI44M100220170945.wav,D2,PD,17-28/Giovanni M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0069,28 People with Parkinson's disease/17-28/Giovanni N/D2GNIEOGVL47M100220171215.wav,D2,PD,17-28/Giovanni N,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0070,28 People with Parkinson's disease/17-28/Giulia L/D2GLIAUDLO50F100220171300.wav,D2,PD,17-28/Giulia L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0071,28 People with Parkinson's disease/17-28/Giulia P/D2GPIUUGLL63F100220171022.wav,D2,PD,17-28/Giulia P,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0072,28 People with Parkinson's disease/17-28/Giustina M/D2GMIAUSST39F100220171158.wav,D2,PD,17-28/Giustina M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0073,28 People with Parkinson's disease/17-28/Nicola M/D2NMIICNOO52M100220171135.wav,D2,PD,17-28/Nicola M,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0074,28 People with Parkinson's disease/17-28/Vito L/D2VLIAT OP47M100220171317.wav,D2,PD,17-28/Vito L,16000,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0075,28 People with Parkinson's disease/6-10/Luigi B/D2lbuairgo52M1606161812.wav,D2,PD,6-10/Luigi B,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0076,28 People with Parkinson's disease/6-10/Saverio S/D2ssacvhei61M1606161742.wav,D2,PD,6-10/Saverio S,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0077,28 People with Parkinson's disease/6-10/Ugo B/D2ubguot_t40M1606161758.wav,D2,PD,6-10/Ugo B,44100,high,determine_repeated_syllable_vs_other_pattern; automated event counts are unvalidated,D1_D2_protocol_review
+R0078,22 Elderly Healthy Control/AGNESE P/FB1APGANRET55F170320171115.wav,FB1,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0079,22 Elderly Healthy Control/GILDA C/FB1GCIALSDA52F170320171133.wav,FB1,ELDERLY_HC,GILDA C,16000,high,possible_clipping,automated_qc
+R0080,22 Elderly Healthy Control/AGNESE P/VA1APGANRET55F170320171107.wav,VA1,ELDERLY_HC,AGNESE P,16000,high,historical_pitch_tracking_review,VA1_pitch_sensitivity
+R0081,22 Elderly Healthy Control/GILDA C/VA1GCIALSDA52F170320171127.wav,VA1,ELDERLY_HC,GILDA C,16000,high,historical_pitch_tracking_review; possible_clipping,VA1_pitch_sensitivity; automated_qc
+R0082,22 Elderly Healthy Control/GIOVANNA G/VA1GGIAORVG47F300320171212.wav,VA1,ELDERLY_HC,GIOVANNA G,16000,high,historical_pitch_tracking_review,VA1_pitch_sensitivity
+R0083,22 Elderly Healthy Control/GRAZIA G/VA1GGRIAUZL45F020420171821.wav,VA1,ELDERLY_HC,GRAZIA G,16000,high,historical_pitch_tracking_review,VA1_pitch_sensitivity
+R0084,28 People with Parkinson's disease/17-28/Antonia G/VA1AGNUTGOL52F100220171049.wav,VA1,PD,17-28/Antonia G,16000,high,high_silence_fraction_for_vowel_task,automated_qc
+R0085,28 People with Parkinson's disease/17-28/Giovanni M/VA1GMIAOSVI44M100220170946.wav,VA1,PD,17-28/Giovanni M,16000,high,historical_pitch_tracking_review,VA1_pitch_sensitivity
+R0086,28 People with Parkinson's disease/17-28/Giustina M/VA1GMIAUSST39F100220171159.wav,VA1,PD,17-28/Giustina M,16000,high,historical_pitch_tracking_review,VA1_pitch_sensitivity
+R0087,22 Elderly Healthy Control/GILDA C/VE1GCIALSDA52F170320171127.wav,VE1,ELDERLY_HC,GILDA C,16000,high,possible_clipping,automated_qc
+R0088,22 Elderly Healthy Control/AGNESE P/VI2APGANRET55F170320171110.wav,VI2,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0089,28 People with Parkinson's disease/17-28/Giustina M/VO1GMIAUSST39F100220171200.wav,VO1,PD,17-28/Giustina M,16000,high,high_silence_fraction_for_vowel_task,automated_qc
+R0090,22 Elderly Healthy Control/AGNESE P/VO2APGANRET55F170320171111.wav,VO2,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0091,22 Elderly Healthy Control/AGNESE P/VU1APGANRET55F170320171112.wav,VU1,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0092,22 Elderly Healthy Control/AGNESE P/VU2APGANRET55F170320171112.wav,VU2,ELDERLY_HC,AGNESE P,16000,high,possible_clipping,automated_qc
+R0093,22 Elderly Healthy Control/ANGELA C/B1ACNAGRER49F210320170916.wav,B1,ELDERLY_HC,ANGELA C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0094,22 Elderly Healthy Control/ANGELA G/B1AGNIGNEE54F230320171018.wav,B1,ELDERLY_HC,ANGELA G,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0095,22 Elderly Healthy Control/MARIACRISTINA P/B1MPAERRIR56F300320171143.wav,B1,ELDERLY_HC,MARIACRISTINA P,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0096,28 People with Parkinson's disease/1-5/Domenico C/B1cdaopmoe67M2605161902.wav,B1,PD,1-5/Domenico C,44100,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0097,28 People with Parkinson's disease/1-5/Felicetta C/B1cfaerlei54F2605161738.wav,B1,PD,1-5/Felicetta C,44100,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0098,28 People with Parkinson's disease/17-28/Giustina M/B1GMIAUSST39F100220171156.wav,B1,PD,17-28/Giustina M,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks; stratified_segmentation_mask_review,blinded_pilot; connected_speech_stratified_threshold_review
+R0099,28 People with Parkinson's disease/17-28/Nicola M/B1NMIICNOO52M100220171134.wav,B1,PD,17-28/Nicola M,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0100,28 People with Parkinson's disease/6-10/Luigi B/B1lbuairgo52M1606161810.wav,B1,PD,6-10/Luigi B,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0101,15 Young Healthy Control/Davide M/B1LBULCAAS94M100120171020.wav,B1,YOUNG_HC,Davide M,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks; stratified_segmentation_mask_review,blinded_pilot; connected_speech_stratified_threshold_review
+R0102,15 Young Healthy Control/Domenico T/B1TDULCAAS94M100120171065.wav,B1,YOUNG_HC,Domenico T,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0103,22 Elderly Healthy Control/GIOVANNA G/B2GGIAORVG47F300320171210.wav,B2,ELDERLY_HC,GIOVANNA G,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0104,22 Elderly Healthy Control/GIOVANNI B/B2GBIAORVI48M230320171234.wav,B2,ELDERLY_HC,GIOVANNI B,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0105,22 Elderly Healthy Control/MARIACRISTINA P/B2MPAERRIR56F300320171145.wav,B2,ELDERLY_HC,MARIACRISTINA P,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0106,28 People with Parkinson's disease/1-5/Domenico C/B2cdaopmoe67M2605161904.wav,B2,PD,1-5/Domenico C,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0107,28 People with Parkinson's disease/1-5/Lucia R/B2rlouscsi77F2605161822.wav,B2,PD,1-5/Lucia R,44100,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0108,28 People with Parkinson's disease/11-16/Roberto L/B2RLOABREE42M240120171944.wav,B2,PD,11-16/Roberto L,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0109,28 People with Parkinson's disease/17-28/Giulia L/B2GLIAUDLO50F100220171259.wav,B2,PD,17-28/Giulia L,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0110,28 People with Parkinson's disease/17-28/Giulia P/B2GPIUUGLL63F100220171021.wav,B2,PD,17-28/Giulia P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0111,28 People with Parkinson's disease/6-10/Saverio S/B2ssacvhei61M1606161741.wav,B2,PD,6-10/Saverio S,44100,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0112,15 Young Healthy Control/Giuseppe Andrea M/B2LBULCAAS94M100120171021.wav,B2,YOUNG_HC,Giuseppe Andrea M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0113,15 Young Healthy Control/Giuseppe M/B2LBULCAAS94M100120171043.wav,B2,YOUNG_HC,Giuseppe M,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0114,15 Young Healthy Control/Sara T/B2LBULCAAS94M100120171066.wav,B2,YOUNG_HC,Sara T,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0115,22 Elderly Healthy Control/ANTONIETTA P/D1APNITNOT56F230320170849.wav,D1,ELDERLY_HC,ANTONIETTA P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0116,28 People with Parkinson's disease/1-5/Lucia R/D1rlouscsi77F2605161822.wav,D1,PD,1-5/Lucia R,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0117,28 People with Parkinson's disease/11-16/Michele C/D1MCIICLHL46M240120171828.wav,D1,PD,11-16/Michele C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0118,22 Elderly Healthy Control/VITO A/D2VAILTFOO49M230320171031.wav,D2,ELDERLY_HC,VITO A,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0119,28 People with Parkinson's disease/17-28/Giulia P/D2GPIUUGLL63F100220171022.wav,D2,PD,17-28/Giulia P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0120,28 People with Parkinson's disease/6-10/Saverio S/D2ssacvhei61M1606161742.wav,D2,PD,6-10/Saverio S,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0121,22 Elderly Healthy Control/AGNESE P/FB1APGANRET55F170320171115.wav,FB1,ELDERLY_HC,AGNESE P,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0122,22 Elderly Healthy Control/ANGELA C/FB1ACNAGRER49F210320170926.wav,FB1,ELDERLY_HC,ANGELA C,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0123,22 Elderly Healthy Control/MARIACRISTINA P/FB1MPAERRIR56F300320171151.wav,FB1,ELDERLY_HC,MARIACRISTINA P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0124,28 People with Parkinson's disease/1-5/Domenico C/FB1cdaopmoe67M2605161917.wav,FB1,PD,1-5/Domenico C,44100,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0125,28 People with Parkinson's disease/1-5/Lucia R/FB1rlouscsi77F2605161834.wav,FB1,PD,1-5/Lucia R,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0126,28 People with Parkinson's disease/11-16/Michele C/FB1MCIICLHL46M240120171837.wav,FB1,PD,11-16/Michele C,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0127,28 People with Parkinson's disease/17-28/Giovanni N/FB1GNIEOGVL47M100220171227.wav,FB1,PD,17-28/Giovanni N,16000,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0128,28 People with Parkinson's disease/17-28/Giulia P/FB1GPIUUGLL63F100220171030.wav,FB1,PD,17-28/Giulia P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0129,28 People with Parkinson's disease/6-10/Luigi B/FB1lbuairgo52M1606161825.wav,FB1,PD,6-10/Luigi B,44100,medium,check_connected_speech_VAD_threshold_and_pause_masks,connected_speech_stratified_threshold_review
+R0130,22 Elderly Healthy Control/ANGELA G/VA1AGNIGNEE54F230320171020.wav,VA1,ELDERLY_HC,ANGELA G,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0131,28 People with Parkinson's disease/1-5/Lucia R/VA1rlouscsi77F2605161825.wav,VA1,PD,1-5/Lucia R,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0132,28 People with Parkinson's disease/17-28/Nicola M/VA1NMIICNOO52M100220171136.wav,VA1,PD,17-28/Nicola M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0133,22 Elderly Healthy Control/GIOVANNI B/VA2GBIAORVI48M230320171236.wav,VA2,ELDERLY_HC,GIOVANNI B,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0134,28 People with Parkinson's disease/1-5/Felicetta C/VA2cfaerlei54F2605161745.wav,VA2,PD,1-5/Felicetta C,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0135,28 People with Parkinson's disease/17-28/Daria L/VA2DLAARCII37F100220171114.wav,VA2,PD,17-28/Daria L,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0136,22 Elderly Healthy Control/TERESA M/VE1TMEIRAEC54F230320171154.wav,VE1,ELDERLY_HC,TERESA M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0137,28 People with Parkinson's disease/17-28/Giustina M/VE1GMIAUSST39F100220171159.wav,VE1,PD,17-28/Giustina M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0138,28 People with Parkinson's disease/6-10/Luigi B/VE1lbuairgo52M1606161815.wav,VE1,PD,6-10/Luigi B,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0139,22 Elderly Healthy Control/GILDA C/VE2GCIALSDA52F170320171128.wav,VE2,ELDERLY_HC,GILDA C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0140,28 People with Parkinson's disease/1-5/Lucia R/VE2rlouscsi77F2605161826.wav,VE2,PD,1-5/Lucia R,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0141,28 People with Parkinson's disease/17-28/Nicola M/VE2NMIICNOO52M100220171139.wav,VE2,PD,17-28/Nicola M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0142,22 Elderly Healthy Control/GIOVANNA G/VI1GGIAORVG47F300320171214.wav,VI1,ELDERLY_HC,GIOVANNA G,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0143,28 People with Parkinson's disease/1-5/Felicetta C/VI1cfaerlei54F2605161751.wav,VI1,PD,1-5/Felicetta C,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0144,28 People with Parkinson's disease/17-28/Giovanni M/VI1GMIAOSVI44M100220170948.wav,VI1,PD,17-28/Giovanni M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0145,22 Elderly Healthy Control/ANGELA C/VI2ACNAGRER49F210320170922.wav,VI2,ELDERLY_HC,ANGELA C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0146,28 People with Parkinson's disease/17-28/Giovanni N/VI2GNIEOGVL47M100220171219.wav,VI2,PD,17-28/Giovanni N,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0147,28 People with Parkinson's disease/6-10/Ugo B/VI2ubguot_t40M1606161802.wav,VI2,PD,6-10/Ugo B,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0148,22 Elderly Healthy Control/ANGELA C/VO1ACNAGRER49F210320170922.wav,VO1,ELDERLY_HC,ANGELA C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0149,28 People with Parkinson's disease/17-28/Nicola M/VO1NMIICNOO52M100220171140.wav,VO1,PD,17-28/Nicola M,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0150,28 People with Parkinson's disease/6-10/Saverio S/VO1ssacvhei61M1606161747.wav,VO1,PD,6-10/Saverio S,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0151,22 Elderly Healthy Control/ANTONIO C/VO2ACNUTCOC40M230320171127.wav,VO2,ELDERLY_HC,ANTONIO C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0152,28 People with Parkinson's disease/1-5/Felicetta C/VO2cfaerlei54F2605161756.wav,VO2,PD,1-5/Felicetta C,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0153,28 People with Parkinson's disease/17-28/Giovanni N/VO2GNIEOGVL47M100220171224.wav,VO2,PD,17-28/Giovanni N,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0154,22 Elderly Healthy Control/MARIACRISTINA P/VU1MPAERRIR56F300320171149.wav,VU1,ELDERLY_HC,MARIACRISTINA P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0155,28 People with Parkinson's disease/1-5/Leonarda L/VU1lloeroun56F2605161932.wav,VU1,PD,1-5/Leonarda L,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0156,28 People with Parkinson's disease/17-28/Giulia P/VU1GPIUUGLL63F100220171027.wav,VU1,PD,17-28/Giulia P,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0157,22 Elderly Healthy Control/ANGELA C/VU2ACNAGRER49F210320170923.wav,VU2,ELDERLY_HC,ANGELA C,16000,medium,stratified_segmentation_mask_review,blinded_pilot
+R0158,28 People with Parkinson's disease/1-5/Lucia R/VU2rlouscsi77F2605161830.wav,VU2,PD,1-5/Lucia R,44100,medium,stratified_segmentation_mask_review,blinded_pilot
+R0159,28 People with Parkinson's disease/17-28/Vito L/VU2VLIAT OP47M100220171321.wav,VU2,PD,17-28/Vito L,16000,medium,stratified_segmentation_mask_review,blinded_pilot
